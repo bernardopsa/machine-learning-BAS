@@ -4,7 +4,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto propõe uma arquitetura tecnológica para a gestão e eficiência energética em sistemas de automação predial. Através da construção de um **Digital Twin** (Gêmeo Digital) do ambiente físico e da aplicação de algoritmos de **Machine Learning**, o sistema é capaz de prever padrões de consumo, identificar anomalias e sugerir configurações ideais para a operação dos equipamentos elétricos (como climatização e iluminação), maximizando a eficiência sem comprometer o conforto.
+Este projeto propõe uma arquitetura tecnológica para a gestão e eficiência energética em sistemas de automação predial. Através da construção de um **Digital Twin** (Gêmeo Digital) do ambiente físico e da aplicação de algoritmos de **Machine Learning**, o sistema é capaz de prever padrões de consumo, identificar anomalias e sugerir configurações ideais para a operação dos equipamentos de climatização, maximizando a eficiência sem comprometer o conforto dos condôminos.
 
 ## 🎓 Contexto Acadêmico
 
